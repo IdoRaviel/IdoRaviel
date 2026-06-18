@@ -1,6 +1,6 @@
 ### Hey, I'm Ido 👋
 
-  CS student passionate about AI and reinforcement learning — algorithms and models for both robotics and LLMs. 
+  CS student passionate about AI and reinforcement learning — algorithms and models for both robotics and LLMs.<br>
   @ Bar-Ilan University · AI Excellence Program | Ilanot Honors Program
   
   🔗 [LinkedIn](https://www.linkedin.com/in/ido-raviel-294488100/)
