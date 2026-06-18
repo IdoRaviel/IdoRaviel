@@ -3,8 +3,7 @@
   AI & Machine Learning developer — reinforcement learning, generative models & LLM agents.
   CS student @ Bar-Ilan University · AI Excellence Program | Ilanot Honors Program.
 
-  🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://
-  www.linkedin.com/in/ido-raviel-294488100/)
+  🔗 [LinkedIn](https://www.linkedin.com/in/ido-raviel-294488100/)
 
   ## 🚀 Projects
 
@@ -30,13 +29,12 @@
   - Qwen-Image-Edit backbone, LoRA fine-tuning, evaluated on PICABench with GPT-4o scoring
   - `Python` · `PyTorch` · `Diffusion Models`
 
-  ### 🐚 doit — interactive LLM shell agent
-  Turns natural language into shell commands — shows the command, runs it (asking first if it's destructive), and
-  reports the output. *LLM course agent assignment.*
+  ### 🐚 doit — LLM agent for the shell
+  An LLM-based agent that runs shell commands from natural language. *LLM course agent assignment.*
   - Safety gate: model judgement **and** a regex check must agree before auto-running
   - Multi-turn memory, clarifying questions, and persistent user memories across sessions
   - One JSON-based code path that runs across hosted **and** local models via LiteLLM
   - `Python` · `LLMs` · `LiteLLM` · `Ollama`
 
   ## 🛠️ Tech Stack
-  `Python` `PyTorch` `Reinforcement Learning` `Diffusion Models` `LLMs` `isaacsim` `Gymnasium` `NumPy`
+  `Python` `PyTorch` `Reinforcement Learning` `LLMs` `isaacsim` `isaaclab` `Gymnasium` 
