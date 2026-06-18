@@ -1,8 +1,8 @@
 ### Hey, I'm Ido 👋
 
-  AI & Machine Learning developer — reinforcement learning, generative models & LLM agents.
-  CS student @ Bar-Ilan University · AI Excellence Program | Ilanot Honors Program.
-
+  CS student passionate about AI and reinforcement learning — algorithms and models for both robotics and LLMs.
+  @ Bar-Ilan University · AI Excellence Program | Ilanot Honors Program
+  
   🔗 [LinkedIn](https://www.linkedin.com/in/ido-raviel-294488100/)
 
   ## 🚀 Projects
